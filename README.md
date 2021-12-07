@@ -1,11 +1,11 @@
-# Memory matching game
+# Match the pair game
 
 ## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
 
-It's a simple online memory matching game, which contains various levels.
+A game played online to match the pairs based on memory.
 <br>
 Here are some snapshots from game.
 
